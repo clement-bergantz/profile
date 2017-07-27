@@ -72,7 +72,7 @@ td {
   border-radius: 250px;
   object-fit: cover;
   border: white 1px solid;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+  box-shadow: 1 1px 3px rgba(0,0,0,0.2);
 }
 .img-rectangle {
   width: 170px;
